@@ -1,0 +1,11 @@
+Operating System lies in the category of system software. 
+It basically manages all the resources of the computer. 
+An OS acts as an interface between the software and different parts of the computer. 
+The OS can manage the overall resources and operations of the computer. 
+
+OS is a fully integrated set of specialized programs. 
+It controls and monitors the execution of all other programs.
+Examples of Operating Systems are Windows, Linux, Mac OS, etc.
+
+An OS provides common services for computer programs. 
+The OS is the most important type of system software in a computer system.

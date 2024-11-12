@@ -1,0 +1,10 @@
+The system provides the following functionalities:
+File Encryption:
+•	Allow users to encrypt a selected file using a strong password.
+•	Use AES (Advanced Encryption Standard) in CBC (Cipher Block Chaining) mode for encryption.
+•	Derive encryption keys using PBKDF2 (Password-Based Key Derivation Function 2) with a user-provided password and a random salt.
+•	Enable the download of the encrypted file after encryption.
+File Decryption:
+•	Enable users to decrypt a previously encrypted file using the same password used for encryption.
+•	Use the password and the salt stored within the encrypted file to derive decryption keys using PBKDF2.
+•	Utilize AES-CBC decryption to decrypt the file contents.
